@@ -1,4 +1,12 @@
 ##################
+### 17-05-2026 ###
+##################
+
+--- DEVICE ---
+- fixed oplus camera crash on zooming past 2x
+- synced with latest vandaium browser and webview
+
+##################
 ### 15-05-2026 ###
 ##################
 

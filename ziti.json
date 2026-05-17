@@ -4,11 +4,11 @@
         "maintainer": "okkotsu",
         "oem": "OnePlus",
         "device": "OnePlus Nord CE3 5G",
-        "filename": "voltage-5.9-ziti-20260515-0850-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/ziti-voltageos-unofficial/files/15-05-2026/voltage-5.9-ziti-20260515-0850-UNOFFICIAL.zip/download",
-        "timestamp": 1778838837,
-        "md5": "18e4bc3adcc39e60b1912515f0840cf9",
-        "size": 2355867917,
+        "filename": "voltage-5.9-ziti-20260517-1645-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/ziti-voltageos-unofficial/files/17-05-2026/voltage-5.9-ziti-20260517-1645-UNOFFICIAL.zip/download",
+        "timestamp": 1779037406,
+        "md5": "40e14f621a92e28aa15a83838c044e4d",
+        "size": 2355675624,
         "version": "5.9"
     }
   ]
