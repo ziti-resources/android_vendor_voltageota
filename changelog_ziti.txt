@@ -1,4 +1,15 @@
 ##################
+### 26-06-2026 ###
+##################
+
+--- DEVICE ---
+- fixed cpu high frequency after app launch
+- switch to oneplus dolby
+- always use lz4 for zram
+- restrict cpu cores for background processes
+- other miscellaneos changes
+
+##################
 ### 17-05-2026 ###
 ##################
 
