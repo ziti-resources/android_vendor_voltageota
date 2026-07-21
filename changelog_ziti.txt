@@ -1,4 +1,14 @@
 ##################
+### 21-07-2026 ###
+##################
+
+--- DEVICE ---
+- fix gapps not flashing issue
+- kernel: update KernelSU-Next to v3.3.0
+- kernel: update SusFS to v2.2.0
+- sync with latest vanadium version
+
+##################
 ### 26-06-2026 ###
 ##################
 
