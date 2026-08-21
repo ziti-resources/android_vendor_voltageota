@@ -1,4 +1,14 @@
 ##################
+### 21-08-2026 ###
+##################
+
+--- DEVICE ---
+- initial VoltageOS 6.x (android 17)
+- minimize powerhint hints
+- implement primitive vibration
+- drop media volume steps 30 -> 15 and call volume 9 -> 7
+
+##################
 ### 21-07-2026 ###
 ##################
 
